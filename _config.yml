@@ -8,11 +8,10 @@
 # Site settings
 title: RA Map
 email: Parton-A1@email.ulster.ac.uk
-description: Welcome to RA Map - a graphical representation of rheumatoid arthritis at a cellular level (REWRITE)
+description: Welcome to RA Map - a graphical representation of rheumatoid arthritis focused on the molecular mechanisms of the disease
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "aparton.github.io" # the base hostname & protocol for your site
 twitter_username: andrewsparton
-github_username:  aparton
 
 # Build settings
 markdown: kramdown
